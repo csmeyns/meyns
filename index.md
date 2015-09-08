@@ -2,8 +2,7 @@
 layout: page
 ---
 
-# Chris Meyns is a researcher, philosophy geek, and coffee lover who is into with early modern, tech, and typography.
-
+# Chris Meyns is a researcher, philosophy geek, and coffee lover who is into with early modern, tech, and typography.    
 
 Here's my story in brief. Currently I am a research associate in the [New Directions in the Study of the Mind](http://www.newdirectionsproject.com) Project at the [University of Cambridge](http://phil.cam.ac.uk/) and a postdoctoral by-fellow at [Churchill College](https://www.chu.cam.ac.uk/). I did my doctoral work in philosophy at [UCL](https://www.ucl.ac.uk/philosophy), and have held visiting positions at [Toronto](http://www.philosophy.utoronto.ca), [Yale](http://philosophy.yale.edu/) and [LMU Munich](http://www.en.uni-muenchen.de/about_lmu_alt/academics/faculties/fak_10_philo/index.html).
 
