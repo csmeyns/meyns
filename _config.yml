@@ -7,7 +7,7 @@ url:			    http://csmeyns.github.io
 name: 	Chris Meyns
 email: 	c.s.meyns@gmail.com
 
-markdown:    kramdown
+markdown:    foghorn
 
 # Analytics and webmaster tools stuff goes here
 # google_analytics: 	UA-50598482-1
@@ -18,5 +18,5 @@ markdown:    kramdown
 
 # Social media / online presence
 twitter:	csmeyns
-github:		csmeyns
+# github:		csmeyns
 skype: 		csmeyns
