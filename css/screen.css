@@ -100,7 +100,7 @@ a em,a:visited em{
 	}
 
 a:hover{
-	color:#FF9D00
+	opacity:.5
 	}
 
 #portrait{
