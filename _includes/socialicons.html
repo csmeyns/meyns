@@ -11,8 +11,11 @@
 	{% if site.academia %}
     	<li><a href="http://cambridge.academia.edu/{{ site.academia }}" title="Join me on Academia.edu" class="fa fa-font fa-3x"></a></li>
 	{% endif %}
-		{% if site.skype %}
+	{% if site.skype %}
     	<li><a href="skype:{{ site.skype }}" title="Add me as a Skype contact" class="fa fa-skype fa-3x"></a></li>
+	{% endif %}
+	{% if site.linkedin %}
+    	<li><a href="https://uk.linkedin.com/in/{{ site.linkedin }}" title="Connect on Linkedin" class="fa fa-linkedin fa-3x"></a></li>
 	{% endif %}
 	{% if site.email %}
     	<li><a href="mailto:{{ site.email }}" title="Send me an email" class="fa fa-envelope-o fa-3x"></a></li>
